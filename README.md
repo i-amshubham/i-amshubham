@@ -2,7 +2,6 @@
 - 💞️ I’m a Ph.D Scholar 
 - 👀 I’m interested in game theory and mechanism design
 - 🌱 I’m currently learning LaTex, R and Python
-- 📫 How to reach me mail2shubham.eco@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have no idea how to usw github
 
